@@ -10,4 +10,27 @@ github설정
 	link - https://honbabzone.com/jekyll/start-gitHubBlog/
 	1) GitBlog 설정
 	2) Jekyll설정
+		일종의 텍스트 변환 엔진
+		
+		-Jekyll 사용을 위한 환경설정
+			-ruby설치 [version - 2.7.2-1(x64)] 
+				Jekyll을 사용하기 위해선 ruby환경이 필요함
+				download link - https://rubyinstaller.org/downloads/
+				설치방법 link - https://park-jongseok.github.io/languages/ruby/2019/10/03/installing-ruby.html			
+		
+		-Jekyll 소스 다운로드
+			소스 다운로드 (여러 버전이 있지만, minimal mistake로 결정)
+			소스 link - https://github.com/mmistakes/minimal-mistakes
+			
+		-Jekyll build
+			GemFile이 있는 경로에서 아래 명령어 실행
+				경로 ex) D:\GitBlog\minimal-mistakes-master
+				명령어
+					gem install bundler
+					bundle
+					jekyll serve
+
+			
+			
+		
 	
