@@ -1,0 +1,13 @@
+github설정
+1. github 시작하기
+	link - https://honbabzone.com/jekyll/start-gitHubBlog/	
+	1) github 계정 생성
+	2) github 저장소 생성
+	3) github GUI (github Desktop) 설정
+	
+	
+2. github 블로그 시작하기
+	link - https://honbabzone.com/jekyll/start-gitHubBlog/
+	1) GitBlog 설정
+	2) Jekyll설정
+	
