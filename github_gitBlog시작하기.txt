@@ -29,6 +29,10 @@ github설정
 					gem install bundler
 					bundle
 					jekyll serve
+			참조link - https://velog.io/@shg4821/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1#4-%EC%A7%80%ED%82%AC-jekyll-%ED%85%8C%EB%A7%88-%EC%97%B0%EB%8F%99-%EB%B0%8F-repository-%EC%83%9D%EC%84%B1-%EB%B9%8C%EB%93%9C		
+		-빌드된 Jekyll소스 commit && push
+		-repository명 변경 => GitBlog주소 "euisanghwang.github.io"
+		-gitBlog접속 시, jekyll적용된 것을 확인할 수 있음
 
 			
 			
